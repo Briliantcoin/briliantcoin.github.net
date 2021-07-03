@@ -432,7 +432,7 @@
                                                                                         97: "https://data-seed-prebsc-1-s1.binance.org:8545/"
                                                                                 },
                                                                                 network: "binance",
-                                                                                chainId: Number("56")
+                                                                                chainId: Number("97")
                                                                         }
                                                                 }
                                                         },
@@ -455,7 +455,7 @@
                                                                                         n.next = 9,
                                                                                         r.eth.getChainId();
                                                                                 case 9:
-                                                                                        if ("56" == n.sent) {
+                                                                                        if ("97" == n.sent) {
                                                                                                 n.next = 12;
                                                                                                 break
                                                                                         }
