@@ -432,7 +432,7 @@
                                                                                         97: "https://data-seed-prebsc-1-s1.binance.org:8545/"
                                                                                 },
                                                                                 network: "binance",
-                                                                                chainId: Number("56")
+                                                                                chainId: Number("97")
                                                                         }
                                                                 }
                                                         },
@@ -455,7 +455,7 @@
                                                                                         n.next = 9,
                                                                                         r.eth.getChainId();
                                                                                 case 9:
-                                                                                        if ("56" == n.sent) {
+                                                                                        if ("97" == n.sent) {
                                                                                                 n.next = 12;
                                                                                                 break
                                                                                         }
@@ -466,7 +466,7 @@
                                                                                 case 14:
                                                                                         return l = n.sent,
                                                                                         e((0, w.hv)(l[0])),
-                                                                                        c = new r.eth.Contract(j, "0x611DFe661C82B858087AB5b16e3Cb082552df4F3"),
+                                                                                        c = new r.eth.Contract(j, "0x1f43fea4ac2272b71704c287003955a1c9150a67"),
                                                                                         window.contract = c,
                                                                                         window.provider = r,
                                                                                         n.abrupt("return", l[0]);
@@ -934,7 +934,7 @@
                                                                                                 }), (0, s.jsx)("div", {
                                                                                                         className: "",
                                                                                                         children: (0, s.jsxs)("a", {
-                                                                                                                href: "https://bscscan.com/token/".concat("0x611DFe661C82B858087AB5b16e3Cb082552df4F3"),
+                                                                                                                href: "https://testnet.bscscan.com/token/".concat("0x1f43fea4ac2272b71704c287003955a1c9150a67"),
                                                                                                                 className: "flex items-center justify-center",
                                                                                                                 target: "_blank",
                                                                                                                 children: [(0, s.jsx)("img", {
@@ -946,7 +946,7 @@
                                                                                                                         children: "Contract address:"
                                                                                                                 }), (0, s.jsx)("div", {
                                                                                                                         className: "truncate",
-                                                                                                                        children: "0x611DFe661C82B858087AB5b16e3Cb082552df4F3"
+                                                                                                                        children: "0x1f43fea4ac2272b71704c287003955a1c9150a67"
                                                                                                                 })]
                                                                                                         })
                                                                                                 })]
