@@ -466,7 +466,7 @@
                                                                                 case 14:
                                                                                         return l = n.sent,
                                                                                         e((0, w.hv)(l[0])),
-                                                                                        c = new r.eth.Contract(j, "0x1f43fea4ac2272b71704c287003955a1c9150a67"),
+                                                                                        c = new r.eth.Contract(j, "0x190e5fA99260fa462Fa30c54Cd32028Cf9f57d75"),
                                                                                         window.contract = c,
                                                                                         window.provider = r,
                                                                                         n.abrupt("return", l[0]);
@@ -934,7 +934,7 @@
                                                                                                 }), (0, s.jsx)("div", {
                                                                                                         className: "",
                                                                                                         children: (0, s.jsxs)("a", {
-                                                                                                                href: "https://testnet.bscscan.com/token/".concat("0x1f43fea4ac2272b71704c287003955a1c9150a67"),
+                                                                                                                href: "https://testnet.bscscan.com/token/".concat("0x190e5fA99260fa462Fa30c54Cd32028Cf9f57d75"),
                                                                                                                 className: "flex items-center justify-center",
                                                                                                                 target: "_blank",
                                                                                                                 children: [(0, s.jsx)("img", {
@@ -946,7 +946,7 @@
                                                                                                                         children: "Contract address:"
                                                                                                                 }), (0, s.jsx)("div", {
                                                                                                                         className: "truncate",
-                                                                                                                        children: "0x1f43fea4ac2272b71704c287003955a1c9150a67"
+                                                                                                                        children: "0x190e5fA99260fa462Fa30c54Cd32028Cf9f57d75"
                                                                                                                 })]
                                                                                                         })
                                                                                                 })]
