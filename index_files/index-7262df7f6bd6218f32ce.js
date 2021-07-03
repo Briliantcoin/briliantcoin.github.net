@@ -432,7 +432,7 @@
                                                                                         97: "https://data-seed-prebsc-1-s1.binance.org:8545/"
                                                                                 },
                                                                                 network: "binance",
-                                                                                chainId: Number("97")
+                                                                                chainId: Number("56")
                                                                         }
                                                                 }
                                                         },
