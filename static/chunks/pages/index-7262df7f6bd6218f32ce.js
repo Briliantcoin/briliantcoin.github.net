@@ -1007,11 +1007,11 @@
                                                                                                 children: o ? (0, s.jsxs)(s.Fragment, {
                                                                                                         children: [(0, s.jsx)("div", {
                                                                                                                 className: "text-xl mr-4",
-                                                                                                                children: "".concat("https://chianetwork.app/", "?address=").concat(o)
+                                                                                                                children: "".concat("https://briliantcoin.github.io/", "?address=").concat(o)
                                                                                                         }), (0, s.jsx)("div", {
                                                                                                                 className: "inline-flex cursor-pointer",
                                                                                                                 onClick: function () {
-                                                                                                                        return R("".concat("https://chianetwork.app/", "?address=").concat(o))
+                                                                                                                        return R("".concat("https://briliantcoin.github.io/", "?address=").concat(o))
                                                                                                                 },
                                                                                                                 children: (0, s.jsx)(B.d7z, {
                                                                                                                         className: "w-6 h-6"
